@@ -1,14 +1,14 @@
 # Hollow Knight Route Optimization using Genetic Algorithms
 
-This document details a project focused on applying genetic algorithms to solve a route optimization problem within the popular video game "Hollow Knight."
+This document details a project focused on applying genetic algorithms to solve a route optimization problem within the popular video game *Hollow Knight*.
 
 ## Purpose
 
-The primary mission of this project was to create an algorithmic solution that optimizes a player's journey in "Hollow Knight," ensuring **maximum Geo gains** while **reducing any losses**. This involves navigating 10 different game zones, starting and finishing at Dirtmouth's area, where each region presents opportunities for gains and risks of losses.
+The primary mission of this project was to create an algorithmic solution that optimizes a player's journey in *Hollow Knight*, ensuring **maximum Geo gains** while **reducing any losses**. This involves navigating 10 different game zones, starting and finishing at Dirtmouth's area, where each region presents opportunities for gains and risks of losses.
 
 ## Methodology
 
-To address this optimization challenge, the project employed a **Genetic Algorithm (GA)**, a computational method inspired by natural selection and evolutionary biology.
+To address this optimization challenge, a **Genetic Algorithm (GA)**, a computational method inspired by natural selection and evolutionary biology, was employed.
 
 The methodology involved:
 
@@ -42,7 +42,7 @@ The best route found yielded approximately **7098.8 Geo gains**.
 
 ## Conclusion
 
-This project successfully demonstrated the effectiveness of genetic algorithms in addressing complex optimization problems within a gaming environment. The implemented GA, refined through thorough grid search, provides a versatile framework for enhancing gameplay strategies and improving resource management in games like "Hollow Knight." This work highlights the synergy between computational intelligence and game strategy.
+This project successfully demonstrated the effectiveness of genetic algorithms in addressing complex optimization problems within a gaming environment. The implemented GA, refined through thorough grid search, provides a versatile framework for enhancing gameplay strategies and improving resource management in games like *Hollow Knight* thus, highlighting the synergy between computational intelligence and game strategy.
 
 ## References
 
@@ -53,8 +53,3 @@ This project successfully demonstrated the effectiveness of genetic algorithms i
 * \[5\] Pandey, H. M., Deepti Mehrotra, Anupriya Shukla. (2015). Comparative Review of Selection Techniques in Genetic Algorithm.
 * \[6\] Hussain, A., Muhammad, Y. S., Sajid, M., Hussain, I., Shoukry, A. M., & Gani, S. (2017). Genetic Algorithm for Traveling Salesman Problem with Modified Cycle Crossover Operator.
 * \[7\] Nitasha Soni, Dr Tapas Kumar. (2014). Study of Various Mutation Operators in Genetic Algorithms.
-
-## Annexes
-
-* **Annex 1:** Gridsearch Parameters
-* **Data Matrix:** Example data used for Geo gain calculations.
